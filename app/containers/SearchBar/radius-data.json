@@ -1,0 +1,35 @@
+[
+  {
+    "title" : "0km",
+    "value": "0"
+  },
+  {
+    "title" : "2km",
+    "value": "2"
+  },
+  {
+    "title" : "5km",
+    "value": "5"
+  },
+  {
+    "title" : "10km",
+    "value": "10"
+  },
+  {
+    "title" : "50km",
+    "value": "50"
+  },
+  {
+    "title" : "100km",
+    "value": "100"
+  },
+  {
+    "title" : "250km",
+    "value": "250"
+  },
+  {
+    "title" : "500km",
+    "value": "500"
+  }
+
+]

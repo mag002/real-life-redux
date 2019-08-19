@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "label": "Private",
+    "value": "BUYER"
+  },
+  {
+    "id": 2,
+    "label": "Dealer",
+    "value": "DEALER"
+  }
+]

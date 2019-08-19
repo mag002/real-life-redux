@@ -1,0 +1,33 @@
+[
+  {
+    "id": 0,
+    "label": "Max",
+    "value": null,
+    "name": "maxEstablishedYear"
+  },
+  {
+    "id": 1,
+    "label": "2010",
+    "value": 2010,
+    "name": "maxEstablishedYear"
+  },
+  {
+    "id": 2,
+    "label": "2015",
+    "value": 2015,
+    "name": "maxEstablishedYear"
+  },
+  {
+    "id": 3,
+    "label": "2018",
+    "value": 2018,
+    "name": "maxEstablishedYear"
+  },
+  {
+    "id": 4,
+    "label": "2019",
+    "value": 2019,
+    "name": "maxEstablishedYear"
+  }
+
+]

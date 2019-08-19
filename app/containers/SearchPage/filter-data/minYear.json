@@ -1,0 +1,33 @@
+[
+  {
+    "id": 0,
+    "label": "Min",
+    "value": null,
+    "name": "minEstablishedYear"
+  },
+  {
+    "id": 1,
+    "label": "2010",
+    "value": 2010,
+    "name": "minEstablishedYear"
+  },
+  {
+    "id": 2,
+    "label": "2015",
+    "value": 2015,
+    "name": "minEstablishedYear"
+  },
+  {
+    "id": 3,
+    "label": "2018",
+    "value": 2018,
+    "name": "minEstablishedYear"
+  },
+  {
+    "id": 4,
+    "label": "2019",
+    "value": 2019,
+    "name": "minEstablishedYear"
+  }
+
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": 0,
+    "label": "Min",
+    "value": null,
+    "name": "minKmRange"
+  },
+  {
+    "id": 1,
+    "label": "2000",
+    "value": 2000,
+    "name": "minKmRange"
+  },
+  {
+    "id": 2,
+    "label": "5000",
+    "value": 5000,
+    "name": "minKmRange"
+  },
+  {
+    "id": 3,
+    "label": "10000",
+    "value": 10000,
+    "name": "minKmRange"
+  },
+  {
+    "id": 4,
+    "label": "50000",
+    "value": 50000,
+    "name": "minKmRange"
+  }
+
+]
