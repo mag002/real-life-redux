@@ -237,7 +237,7 @@
     "jwt-decode": "^2.2.0",
     "lodash": "4.17.4",
     "loglevel": "^1.6.1",
-    "minimist": "1.2.0",
+    "minimist": "1.2.2",
     "moment": "2.24.0",
     "numeral": "2.0.6",
     "perfect-scrollbar": "1.4.0",
