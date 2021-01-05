@@ -215,7 +215,7 @@
     "@blueprintjs/select": "^3.6.0",
     "@blueprintjs/table": "^3.4.1",
     "antd": "3.13.3",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-polyfill": "6.23.0",
     "bootstrap": "4.2.1",
     "calidation": "1.7.0",
